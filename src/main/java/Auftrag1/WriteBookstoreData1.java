@@ -52,8 +52,7 @@ public class WriteBookstoreData1 {
 			StreamResult streamResult = new StreamResult(new File(filePath));
 			transformer.transform(source, streamResult);
 		} catch (ParserConfigurationException | TransformerException e) {
-			throw new RuntimeException(e);
+			e.printStackTrace();
 		}
 	}
-
 }

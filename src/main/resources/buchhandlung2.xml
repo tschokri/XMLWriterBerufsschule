@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <buchhandlung>
-    <buch lang="de">
+    <buch>
         <titel> Java ist auch eine Insel </titel>
+        <autor> Christian Ullenboom </autor>
     </buch>
 </buchhandlung>
