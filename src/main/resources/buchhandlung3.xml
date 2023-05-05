@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<buchhandlung>
+    <book>
+        <titel>Everyday Italian</titel>
+        <autor>Giada De Laurentiis</autor>
+        <preis>30.0</preis>
+    </book>
+    <book>
+        <titel>Harry Potter</titel>
+        <autor>J K. Rowling</autor>
+        <preis>29.99</preis>
+    </book>
+    <book>
+        <titel>XQuery Kick Start</titel>
+        <autor>James McGovern</autor>
+        <preis>49.99</preis>
+    </book>
+    <book>
+        <titel>Learning XML</titel>
+        <autor>Erik T. Ray</autor>
+        <preis>39.95</preis>
+    </book>
+</buchhandlung>
